@@ -1,0 +1,12 @@
+.card {
+    border : 1px solid black;
+    width: 420px;
+    padding: 20px;
+    margin: 10px 0;
+}
+.card h4 {
+    margin-bottom: 0;
+}
+.card p {
+    margin-top: 8px;
+}

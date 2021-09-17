@@ -1,0 +1,12 @@
+.home__header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+.home__cardscontainer {
+   padding:20px 0;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
